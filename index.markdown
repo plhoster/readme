@@ -34,7 +34,14 @@ pip install -r requirements.txt
 ```
 
 # Usage
-Navigate to the Repository Folder - or add it as environment variable - and open a command prompt. Then run your command from there.
+Navigate to the Repository Folder and open a command prompt. Then run the **main.py** with the parameters you want.
+
+**Example:**
+```
+python main.py -i inputfile.pdf -l de -o outputfile.mp3
+```
+
+You could also add the main file as an environment variable if you like.
 
 **Options:**
 ```
