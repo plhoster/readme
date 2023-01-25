@@ -55,6 +55,6 @@ The Inputfile(.pdf)
 The Language of the PDF File
 
 ```
--o -- output
+-o --output
 ```
 The Outputfile(.mp3)
