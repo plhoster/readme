@@ -15,12 +15,14 @@ mistakes when parsing the PDF but all in all it still works really consistent.
 
 # Installation
 **Windows:**
-Readme comes as a Python script so you will need Python to run it. It can be installed from <a href="https://www.python.org/">here</a>.
+Otherwise readme comes as a Python script so you will need Python to run it. It can be installed from <a href="https://www.python.org/">here</a>.
 Also make sure to install the Python Package Manager pip which will normaly be an option included in the Python installer.
 Clone the Repository and run
 ```
 pip install -r requirements.txt
 ```
+If you don't want to install python on your computer, readme provides a windows installer too which will install a freeze compiled version of readme which you can then hookup to an environment variable if needed.
+The installer can be downloaded here: <a href="readme-installer-windows-v-1-0.zip">readme-windows-installer-v-1-0</a>
 
 **Linux/Mac:**
 Python is in most cases already pre-installed. Make sure you have pip installed by opening a command prompt and type 
