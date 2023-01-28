@@ -21,8 +21,8 @@ Clone the Repository and run
 ```
 pip install -r requirements.txt
 ```
-If you don't want to install python on your computer, readme provides a windows installer too which will install a freeze compiled version of readme which you can then hookup to an environment variable if needed.
-The installer can be downloaded here: <a href="readme-installer-windows-v-1-0.zip">readme-windows-installer-v-1-0</a>
+If you don't want to install python on your computer, readme provides a windows installer too which will install a freeze compiled version of readme which you can then hookup to an environment variable if needed.<br>
+The installer can be downloaded here: <a href="readme-installer-windows-v-1-0.exe">readme-windows-installer-v-1-0</a>
 
 **Linux/Mac:**
 Python is in most cases already pre-installed. Make sure you have pip installed by opening a command prompt and type 
